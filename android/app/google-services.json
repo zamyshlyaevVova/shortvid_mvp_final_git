@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "225279844734",
+    "project_id": "shortvid-mvp-final",
+    "storage_bucket": "shortvid-mvp-final.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:225279844734:android:8ebce9310e8c612158932f",
+        "android_client_info": {
+          "package_name": "com.example.shortvid_mvp_final"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAxV-CgJFmK5Y46pN0L8stoWunpqNe3oM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
